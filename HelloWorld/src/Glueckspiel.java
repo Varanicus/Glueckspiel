@@ -36,7 +36,7 @@ public class Glueckspiel {
 			} else {
 				System.out.println("Spieler 1 gewinnt");
 			}
-		}halo
+		}
 
 	}
 
